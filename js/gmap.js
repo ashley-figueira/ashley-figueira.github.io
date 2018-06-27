@@ -52,7 +52,7 @@ function initialize()
 
 	var styledMap = new google.maps.StyledMapType(styles,{name: "Styled Map" });
 
-    var myCenter = new google.maps.LatLng(40.207490,-8.406363);
+    var myCenter = new google.maps.LatLng(51.470406,-0.120800);
   	
   	var mapProp = {
     center:myCenter,
