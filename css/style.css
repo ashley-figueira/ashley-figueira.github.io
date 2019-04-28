@@ -10,7 +10,6 @@
     7. Portfolio
     8. Hire Me
     9. Resume
-    10. Clients
     11. Contact
     12. Footer
     13. Social Icon
@@ -876,25 +875,6 @@ header .intro-text .intro-heading {
 }
 
 
-/* 10. Clients
--------------------------------------------------*/
-aside.clients img {
-    margin: 40px auto;
-    opacity: 0.9;
-    padding: 20px;
-}
-
-aside.clients img:hover {
-    opacity: 1;
-    transform: scale(1.1);
-}
-
-#cisuclogo {
-    margin-top: 30px;
-    opacity: 0.8;
-}
-
-
 /* 11. Contact
 -------------------------------------------------*/
 section#contact {
@@ -1203,7 +1183,7 @@ ul.social-buttons li a:active {
         float: left;
         width: 41%;
         padding: 0 20px 20px 30px;
-        text-align: right;
+        text-align: justify;
     }
 
     .timeline>li .timeline-image {
